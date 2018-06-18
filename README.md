@@ -15,6 +15,8 @@ Install via NuGet: ```TDLib```
 * SSLEAY32.dll (Windows)
 * Telegram.Td.dll (Windows)
 
+You can also download this link : [Click to download](https://github.com/mnouraei/TDLibSharp/blob/master/Dependencies.zip)
+
 ### Simple example
 
 ```csharp
